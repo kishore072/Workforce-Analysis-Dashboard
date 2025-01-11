@@ -34,8 +34,3 @@ This global dashboard provides a comprehensive overview of workforce trends and 
 - **SQL:** For data retrieval and preparation.  
 - **Excel:** For preliminary data processing.
 
----
-
-## **License**
-
-This project is open-source and available under the [MIT License](LICENSE).
