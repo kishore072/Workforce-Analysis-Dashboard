@@ -28,15 +28,6 @@ This global dashboard provides a comprehensive overview of workforce trends and 
 
 ---
 
-## **How to Use**
-
-1. Clone the repository to your local machine.  
-2. Open the Power BI file (`Workforce_Analysis_Dashboard.pbix`) in Power BI Desktop.  
-3. Connect to the provided dataset or your own workforce data.  
-4. Explore the dashboard to analyze workforce trends and customize it as needed.
-
----
-
 ## **Tools and Technologies**
 
 - **Power BI:** For interactive data visualization and dashboard creation.  
